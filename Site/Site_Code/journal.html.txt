@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Журнал</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Журнал проекта</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Главная</a></li>
+        <li><a href="about.html">О проекте</a></li>
+        <li><a href="team.html">Участники</a></li>
+        <li><a href="journal.html">Журнал</a></li>
+        <li><a href="resources.html">Ресурсы</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section class="post">
+      <h2>Первая встреча команды</h2>
+      <p>Команда собралась для обсуждения целей проекта, распределения ролей и первых шагов в разработке.</p>
+    </section>
+    <section class="post">
+      <h2>Создание макета сайта</h2>
+      <p>Подготовлен прототип интерфейса и утверждена визуальная концепция. Работа началась с главной страницы.</p>
+    </section>
+    <section class="post">
+      <h2>Запуск первой версии</h2>
+      <p>Разработана и опубликована первая версия сайта. Команда начала тестирование и сбор отзывов.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Поддержка рядом</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,8 @@
+archetypes/
+content/
+papka/
+public/
+resources/
+themes/
+.hugo_build.lock
+hugo.toml
